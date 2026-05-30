@@ -1,4 +1,4 @@
-# HR Request to Data Analysis Team: SQL & Power BI Project
+# SQL & Power BI Project
 
 Welcome to the HR Request to Data Analysis Team repository! This project demonstrates the use of SQL for data cleaning and sorting, along with Power BI for data visualization and dashboard creation. The analysis focuses on identifying healthy individuals with low absenteeism and calculating wage increases for non-smokers based on an insurance budget.
 
